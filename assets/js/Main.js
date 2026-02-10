@@ -1,4 +1,4 @@
-﻿import { createToast } from '../../Utilities/ToastNotification.js';
+﻿import { createToast } from '../../utilities/ToastNotification.js';
 
 let objNotification = [{
     "plate": "POY877",
